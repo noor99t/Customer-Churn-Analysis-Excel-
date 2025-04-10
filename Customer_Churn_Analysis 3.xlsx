@@ -1,53 +1,47 @@
 # 📉 Customer Churn Analysis with Excel & Power BI
 
-This project analyzes customer churn data to identify the key factors driving customer attrition, and visualize actionable insights using **Power BI** and **Excel**.
-
-Understanding why customers leave is crucial for any business — this analysis helps pinpoint at-risk customers and optimize retention strategies.
+Analyze customer churn behavior using real data and visualize key insights through a dynamic Power BI dashboard.
 
 ---
 
-## 📁 Dataset Overview
+## 🧾 Dataset Overview
 
-The dataset includes key customer attributes such as:
-
-- Customer demographics (gender, age, region)
-- Subscription details (plan type, tenure)
-- Service usage (internet, tech support, streaming)
-- Financial data (monthly charges, total charges)
+Includes details on:
+- Customer demographics
+- Subscription & service usage
+- Charges (monthly & total)
 - Churn status (Yes/No)
 
-📂 File used: `Customer_Churn_Analysis.xlsx`
+📂 File: `Customer_Churn_Analysis.xlsx`
 
 ---
 
-## 🎯 Project Objectives
+## 🎯 Project Goals
 
-✔️ Identify key patterns and variables associated with churn  
-✔️ Segment customers by churn risk level  
-✔️ Analyze relationships between services and churn probability  
-✔️ Build dynamic Power BI visuals for storytelling and decision-making  
-
----
-
-## 📊 Key Insights (Sample)
-
-- Customers with shorter tenure and higher monthly charges are more likely to churn.
-- Lack of tech support and streaming services increases churn rate.
-- Fiber optic users churn more than DSL users.
-- Senior customers have slightly higher churn rates across all plan types.
-
-*Full insights available in the Power BI dashboard (coming soon or included in `.pbix`)*
+✔️ Understand what drives customer churn  
+✔️ Segment churn vs. loyal customers  
+✔️ Visualize churn metrics interactively  
+✔️ Support smarter retention decisions  
 
 ---
 
-## 🛠️ Tools Used
+## 🔍 Sample Insights
 
-- **Excel** for data preprocessing and exploration
-- **Power BI** for interactive dashboards
-- Power Query for transformations
-- DAX for custom metrics and KPIs
+- High monthly charges → higher churn  
+- Tech support absence → more churn  
+- Fiber optic users churn more than DSL  
+- Long-tenure users show higher loyalty  
 
 ---
 
-## 📌 Deliverables
+## 📊 Tools Used
+
+- **Microsoft Excel** – for cleaning & prep  
+- **Power BI** – for dashboard visualization  
+- **Power Query** – for transforming data  
+- **DAX** – for KPIs & logic-based visuals  
+
+---
+
+## 📁 Files Included
 
